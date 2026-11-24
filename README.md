@@ -2,16 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+A daily planner app
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1915" height="1068" alt="add_activity" src="https://github.com/user-attachments/assets/476b0efc-abb1-4b74-aab3-535af37b8336" />
+<img width="1806" height="1018" alt="home_page" src="https://github.com/user-attachments/assets/2edd4b00-59fe-4a49-9442-d52dcb90eec3" />
+<img width="1919" height="1007" alt="get_started" src="https://github.com/user-attachments/assets/550c216c-4dd1-4220-bc5a-e3c9b902f816" />
